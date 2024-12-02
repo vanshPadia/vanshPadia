@@ -57,8 +57,8 @@ Designed and deployed a secure VPC setup with:
 ## 📫 Contact  
 
 - **GitHub:** [@VanshPadia](https://github.com/VanshPadia)  
-- **LinkedIn:** [Your LinkedIn Profile Link]  
-- **Email:** your.email@example.com  
+- **LinkedIn:** [@VanshPadia](https://www.linkedin.com/in/vansh-padia/)  
+- **Email:** vansh.padia19@gamil.com
 
 ---
 
